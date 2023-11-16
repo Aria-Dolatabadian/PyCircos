@@ -1,6 +1,6 @@
 #https://github.com/ponnhide/pyCircos
 
-
+#install python-circos
 #Tutorial 1
 import matplotlib.pyplot as plt
 from pycircos import Gcircle
